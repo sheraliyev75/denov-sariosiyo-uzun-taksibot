@@ -1,1 +1,1 @@
-# denov-sariosiyo-uzun-taksibot
+# denov-sariosiyo-uzun-taksi-bot
